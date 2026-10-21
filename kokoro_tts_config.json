@@ -1,0 +1,24 @@
+{
+  "server": {
+    "port": 10200,
+    "default_language": "de"
+  },
+  "languages": {
+    "de": {
+      "model_path": "models/kokoro/kokoro-martin.onnx",
+      "voices_path": "models/kokoro/voices-martin.npz",
+      "default_voice": "martin",
+      "use_german_g2p": true,
+      "kokoro_lang_code": "de",
+      "ha_voice_description": "German Martin Voice"
+    },
+    "en": {
+      "model_path": "models/kokoro/kokoro-v1.0.onnx",
+      "voices_path": "models/kokoro/voices-v1.0.bin",
+      "default_voice": "af_bella",
+      "use_german_g2p": false,
+      "kokoro_lang_code": "en-us",
+      "ha_voice_description": "English Bella Voice"
+    }
+  }
+}

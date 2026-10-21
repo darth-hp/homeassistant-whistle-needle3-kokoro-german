@@ -1,0 +1,32 @@
+{
+  "matching": {
+    "strict_threshold": 82,
+    "scorer": "token_set_ratio",
+    "generic_nouns": [
+      "rollo",
+      "rolladen",
+      "licht",
+      "lampe",
+      "led",
+      "blind",
+      "shutter",
+      "light",
+      "climate",
+      "heizung"
+    ],
+    "all_trigger_words": [
+      "alle",
+      "all",
+      "jeder",
+      "every"
+    ],
+    "group_entity_patterns": [
+      "alle_",
+      "all_"
+    ],
+    "group_name_patterns": [
+      "alle ",
+      "all "
+    ]
+  }
+}

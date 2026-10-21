@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & temporary files
+.pytest_cache/
+.mypy_cache/
+*.tmp
+*.wav
+/dev/shm/*
+models/
+kokoro_german/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.env

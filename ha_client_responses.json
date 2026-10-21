@@ -1,0 +1,36 @@
+{
+  "de": {
+    "not_understood": "Das habe ich leider nicht verstanden.",
+    "device_not_found": "Gerät '{device}' wurde nicht gefunden.",
+    "time_reply": "Es ist {hours} Uhr {minutes}.",
+    "time_reply_exact": "Es ist genau {hours} Uhr.",
+    "action_completed": "Aktion ausgeführt.",
+    "light_brightness": "{name} auf {brightness}% gestellt.",
+    "light_state": "{name} wurde {state}.",
+    "light_on": "eingeschaltet",
+    "light_off": "ausgeschaltet",
+    "cover_position": "{name} auf {position}% gefahren.",
+    "cover_opened": "{name} wird geöffnet.",
+    "cover_closed": "{name} wird geschlossen.",
+    "cover_stopped": "{name} angehalten.",
+    "climate_temp": "{name} auf {temp}°C gestellt.",
+    "climate_mode": "{name} Modus {mode} aktiviert."
+  },
+  "en": {
+    "not_understood": "Sorry, I could not understand that request.",
+    "device_not_found": "Device '{device}' was not found.",
+    "time_reply": "It is {hours}:{minutes}.",
+    "time_reply_exact": "It is {hours} o'clock.",
+    "action_completed": "Action completed.",
+    "light_brightness": "{name} set to {brightness}%.",
+    "light_state": "{name} turned {state}.",
+    "light_on": "on",
+    "light_off": "off",
+    "cover_position": "{name} set to position {position}%.",
+    "cover_opened": "{name} opened.",
+    "cover_closed": "{name} closed.",
+    "cover_stopped": "{name} stopped.",
+    "climate_temp": "{name} set to {temp}°C.",
+    "climate_mode": "{name} mode set to {mode}."
+  }
+}
